@@ -2,7 +2,3 @@
 	path = thisiskuple/thisiskuple.github.io
 	url = https://github.com/thisiskuple/thisiskuple.github.io.git
 	branch = main
-[submodule "thisiskuple/public"]
-	path = thisiskuple/public
-	url = https://github.com/thisiskuple/thisiskuple.github.io.git
-	branch = main
