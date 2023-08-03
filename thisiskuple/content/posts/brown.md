@@ -97,5 +97,3 @@ date: 2023-07-31T14:02:22+07:00
 <---> <!-- magic separator, between columns -->
 
 {{< /columns >}}
-
-*Last Update : Senin, 31 Juli 2023*
