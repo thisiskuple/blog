@@ -4,7 +4,7 @@ date: 2023-07-31T14:02:22+07:00
 ---
 {{< columns >}} <!-- begin columns block -->
 
-![targets](/123.jpg)
+![targets](/ramber.jpeg)
 
 <---> <!-- magic separator, between columns -->
 
