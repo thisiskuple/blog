@@ -98,3 +98,9 @@ enableRobotsTXT = true
   # 'date', 'publishdate', 'expirydate' or 'lastmod'. Every option can be used with a reverse modifier as well
   # e.g. 'title_reverse'.
   geekdocFileTreeSortBy = "title"
+
+  # If you have protected some pages with e.g. basic authentication you may want to exclude these pages
+  # from data file, otherwise information may be leaked. Setting this parameter to 'true' will exclude the
+  # page from search data, feeds, etc.
+  # WARNING: Consider hosting a standalone, fully auth-protected static page for secret information instead!
+  geekdocProtected = false
