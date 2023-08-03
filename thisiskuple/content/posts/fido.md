@@ -11,8 +11,8 @@ date: 2023-07-31T14:02:22+07:00
 
 |             |                 |
 | ------------- | ----------------- |
-| Chip        | 992000001182410 |
-| DOB         | 25 Mei 2021     |
+| Chip        | 941000022177685 |
+| DOB         | 02/01/2021      |
 | Sex         | Male            |
 | Breed       | Pointer Mix     |
 | Respon      | Duduk           |
@@ -25,12 +25,12 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Jenis Training Aid*** | ***Pengenalan Bau*** |
 | -------------------------- | ---------------------- |
-| Meth                     | Ya                   |
-| MDMA                     | Ya                   |
-| Cocaine                  | Ya                   |
-| Ganja                    | Ya                   |
-| Heroin                   | Ya                   |
-| Syntethic Cannabinoid    | Ya                   |
+| Meth                     |                      |
+| MDMA                     |                      |
+| Cocaine                  |                      |
+| Ganja                    |                      |
+| Heroin                   |                      |
+| Syntethic Cannabinoid    |                      |
 | Currency                 | Tidak                |
 
 <---> <!-- magic separator, between columns -->
@@ -60,9 +60,9 @@ date: 2023-07-31T14:02:22+07:00
 <---><!-- magic separator, between columns -->
 
 
-| ***Riwayat Kesehatan*** |
-| ------------------------- |
-| Tidak Ada               |
+| ***Riwayat Kesehatan***                                                                       |
+| ----------------------------------------------------------------------------------------------- |
+| Terdapat kutil di kaki belakang kiri, perawatan : pemberian salep callusol tiap hari di kutil |
 
 {{< /columns >}}
 
@@ -88,18 +88,9 @@ date: 2023-07-31T14:02:22+07:00
 {{< columns >}} <!-- begin columns block -->
 
 
-| ***Prestasi***                           |
-| ------------------------------------------ |
-| Pel. Merak: 309 Kg Methamphetamine       |
-| Pos Pasbar: 45 butir Ganja               |
-| Pos Pasbar: 2.925 gr / 5.000 butir MDMA  |
-| Pos Pasbar: 951 gr / 2.000 butir MDMA    |
-| Pos Pasbar: 7 butir Ganja                |
-| Pos Pasbar: 13,44 Kg Methamphetamine     |
-| Pos Pasbar: 6.812 gr / 15.840 butir MDMA |
-| Pos Pasbar: 2 mL THC                     |
-| Pos Pasbar: 1.385 gr Delta-9-THC         |
-| Pos Pasbar: 2 botol Hemp Oil @100 mg     |
+| ***Prestasi*** |
+| ---------------- |
+|                |
 
 <---> <!-- magic separator, between columns -->
 

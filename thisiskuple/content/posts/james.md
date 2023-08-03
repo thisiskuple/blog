@@ -9,14 +9,14 @@ date: 2023-07-31T14:02:22+07:00
 <---> <!-- magic separator, between columns -->
 
 
-|             |                 |
-| ------------- | ----------------- |
-| Chip        | 992000001182410 |
-| DOB         | 25 Mei 2021     |
-| Sex         | Male            |
-| Breed       | Pointer Mix     |
-| Respon      | Duduk           |
-| T. Anggaran | 2022            |
+|             |                    |
+| ------------- | -------------------- |
+| Chip        | 991003000808366    |
+| DOB         | 08/02/2021         |
+| Sex         | Male               |
+| Breed       | Labrador Retriever |
+| Respon      | Duduk              |
+| T. Anggaran | 2021               |
 
 {{< /columns >}}
 
@@ -25,13 +25,13 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Jenis Training Aid*** | ***Pengenalan Bau*** |
 | -------------------------- | ---------------------- |
-| Meth                     | Ya                   |
-| MDMA                     | Ya                   |
-| Cocaine                  | Ya                   |
-| Ganja                    | Ya                   |
-| Heroin                   | Ya                   |
-| Syntethic Cannabinoid    | Ya                   |
-| Currency                 | Tidak                |
+| Meth                     |                      |
+| MDMA                     |                      |
+| Cocaine                  |                      |
+| Ganja                    |                      |
+| Heroin                   |                      |
+| Syntethic Cannabinoid    |                      |
+| Currency                 |                      |
 
 <---> <!-- magic separator, between columns -->
 
@@ -47,12 +47,12 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Kemampuan Pelacakan*** | ***Rating / 5⭐*** |
 | --------------------------- | -------------------- |
-| Pos                       | ⭐⭐⭐⭐           |
-| Air Cargo                 | ⭐⭐⭐⭐           |
-| Bagasi                    | ⭐⭐⭐⭐           |
-| Passenger                 | ⭐⭐⭐⭐           |
+| Pos                       | N/A                |
+| Air Cargo                 | N/A                |
+| Bagasi                    | N/A                |
+| Passenger                 | N/A                |
 | Building Interior         | N/A                |
-| Sea Cargo                 | ⭐⭐⭐⭐           |
+| Sea Cargo                 | N/A                |
 | Vehicle                   | N/A                |
 | Ship                      | N/A                |
 | Field Tracking            | N/A                |
@@ -88,18 +88,9 @@ date: 2023-07-31T14:02:22+07:00
 {{< columns >}} <!-- begin columns block -->
 
 
-| ***Prestasi***                           |
-| ------------------------------------------ |
-| Pel. Merak: 309 Kg Methamphetamine       |
-| Pos Pasbar: 45 butir Ganja               |
-| Pos Pasbar: 2.925 gr / 5.000 butir MDMA  |
-| Pos Pasbar: 951 gr / 2.000 butir MDMA    |
-| Pos Pasbar: 7 butir Ganja                |
-| Pos Pasbar: 13,44 Kg Methamphetamine     |
-| Pos Pasbar: 6.812 gr / 15.840 butir MDMA |
-| Pos Pasbar: 2 mL THC                     |
-| Pos Pasbar: 1.385 gr Delta-9-THC         |
-| Pos Pasbar: 2 botol Hemp Oil @100 mg     |
+| ***Prestasi*** |
+| ---------------- |
+|                |
 
 <---> <!-- magic separator, between columns -->
 

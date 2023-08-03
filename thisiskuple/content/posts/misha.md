@@ -11,9 +11,9 @@ date: 2023-07-31T14:02:22+07:00
 
 |             |                 |
 | ------------- | ----------------- |
-| Chip        | 992000001182410 |
-| DOB         | 25 Mei 2021     |
-| Sex         | Male            |
+| Chip        | 900215003444854 |
+| DOB         | 03/04/2021      |
+| Sex         | Female          |
 | Breed       | Pointer Mix     |
 | Respon      | Duduk           |
 | T. Anggaran | 2022            |
@@ -25,12 +25,12 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Jenis Training Aid*** | ***Pengenalan Bau*** |
 | -------------------------- | ---------------------- |
-| Meth                     | Ya                   |
-| MDMA                     | Ya                   |
-| Cocaine                  | Ya                   |
-| Ganja                    | Ya                   |
-| Heroin                   | Ya                   |
-| Syntethic Cannabinoid    | Ya                   |
+| Meth                     |                      |
+| MDMA                     |                      |
+| Cocaine                  |                      |
+| Ganja                    |                      |
+| Heroin                   |                      |
+| Syntethic Cannabinoid    |                      |
 | Currency                 | Tidak                |
 
 <---> <!-- magic separator, between columns -->
@@ -47,12 +47,12 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Kemampuan Pelacakan*** | ***Rating / 5⭐*** |
 | --------------------------- | -------------------- |
-| Pos                       | ⭐⭐⭐⭐           |
-| Air Cargo                 | ⭐⭐⭐⭐           |
-| Bagasi                    | ⭐⭐⭐⭐           |
-| Passenger                 | ⭐⭐⭐⭐           |
+| Pos                       | N/A                |
+| Air Cargo                 | N/A                |
+| Bagasi                    | N/A                |
+| Passenger                 | N/A                |
 | Building Interior         | N/A                |
-| Sea Cargo                 | ⭐⭐⭐⭐           |
+| Sea Cargo                 | N/A                |
 | Vehicle                   | N/A                |
 | Ship                      | N/A                |
 | Field Tracking            | N/A                |
@@ -60,9 +60,9 @@ date: 2023-07-31T14:02:22+07:00
 <---><!-- magic separator, between columns -->
 
 
-| ***Riwayat Kesehatan*** |
-| ------------------------- |
-| Tidak Ada               |
+| ***Riwayat Kesehatan***                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kulit kaki paha belakang kiri dan area hidung menebal, perawatan : berikan salep oplosan/anti biotika serta vco untuk mempercepat pertumbuhan bulu |
 
 {{< /columns >}}
 

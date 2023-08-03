@@ -11,10 +11,10 @@ date: 2023-07-31T14:02:22+07:00
 
 |             |                 |
 | ------------- | ----------------- |
-| Chip        | 992000001182410 |
-| DOB         | 25 Mei 2021     |
+| Chip        | 990000004044825 |
+| DOB         | 02/02/2021      |
 | Sex         | Male            |
-| Breed       | Pointer Mix     |
+| Breed       | Jack Russel     |
 | Respon      | Duduk           |
 | T. Anggaran | 2022            |
 
@@ -38,7 +38,7 @@ date: 2023-07-31T14:02:22+07:00
 
 | ***Catatan Khusus*** |
 | ---------------------- |
-| Tidak ada            |
+| Potensi bintang lima |
 
 {{< /columns >}}
 
@@ -50,9 +50,9 @@ date: 2023-07-31T14:02:22+07:00
 | Pos                       | ⭐⭐⭐⭐           |
 | Air Cargo                 | ⭐⭐⭐⭐           |
 | Bagasi                    | ⭐⭐⭐⭐           |
-| Passenger                 | ⭐⭐⭐⭐           |
+| Passenger                 | N/A                |
 | Building Interior         | N/A                |
-| Sea Cargo                 | ⭐⭐⭐⭐           |
+| Sea Cargo                 | N/A                |
 | Vehicle                   | N/A                |
 | Ship                      | N/A                |
 | Field Tracking            | N/A                |
@@ -88,18 +88,15 @@ date: 2023-07-31T14:02:22+07:00
 {{< columns >}} <!-- begin columns block -->
 
 
-| ***Prestasi***                           |
-| ------------------------------------------ |
-| Pel. Merak: 309 Kg Methamphetamine       |
-| Pos Pasbar: 45 butir Ganja               |
-| Pos Pasbar: 2.925 gr / 5.000 butir MDMA  |
-| Pos Pasbar: 951 gr / 2.000 butir MDMA    |
-| Pos Pasbar: 7 butir Ganja                |
-| Pos Pasbar: 13,44 Kg Methamphetamine     |
-| Pos Pasbar: 6.812 gr / 15.840 butir MDMA |
-| Pos Pasbar: 2 mL THC                     |
-| Pos Pasbar: 1.385 gr Delta-9-THC         |
-| Pos Pasbar: 2 botol Hemp Oil @100 mg     |
+| ***Prestasi***                          |
+| ----------------------------------------- |
+| Pos Pasbar: 1.045 gr Methamphetamine    |
+| Pel. Merak: 309 Kg Methamphetamine      |
+| Pos Pasbar: 45 butir Ganja              |
+| Pos Pasbar: 2.925 gr / 5.000 butir MDMA |
+| Pos Pasbar: 7 butir Ganja               |
+| Pos Pasbar: 13,44 Kg Methamphetamine    |
+| Pos Pasbar: 2 Kg Ketamine               |
 
 <---> <!-- magic separator, between columns -->
 
